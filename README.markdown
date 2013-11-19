@@ -1,3 +1,5 @@
+# Hey
+
 # Heroku Sinatra Template
 
 This is a template Sinatra app with some MVC-oriented configurations and
