@@ -10,3 +10,4 @@ require './config/init.rb'
 get '/' do
   erb :index
 end
+
